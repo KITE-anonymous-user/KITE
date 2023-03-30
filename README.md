@@ -8,5 +8,5 @@ In cyber-physical systems, inertial sensors are the basis for identifying motion
 + This folder contains the source code running on the malicious unit(PCB board prototype) for touch-based attacks.
 ### cases
 + This folder contains two end-to-end attack cases, including the corresponding videos and descriptions.
-### The resonant frequency of COTS devices.md
+### The resonant frequency of IMU in COTS devices.md
 + This file records the resonant frequency of 28 COTS devices.
